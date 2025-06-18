@@ -7,3 +7,11 @@
     color: black;
     font-size: 25px;
 }
+
+ .box {
+            width: 100%;
+            height: 200px;
+            background: rgb(237, 114, 6);
+            content: "Xin chao cac ban";
+        }
+    
